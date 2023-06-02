@@ -1,0 +1,9 @@
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\bin\Debug\ExtensibilityProject1.dll.config
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\bin\Debug\ExtensibilityProject1.dll
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\bin\Debug\ExtensibilityProject1.pdb
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.csproj.AssemblyReference.cache
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.csproj.GenerateResource.cache
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.csproj.CoreCompileInputs.cache
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.dll
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.pdb
+C:\Users\araposo\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.FDU_ArtigoDescricao.resources
